@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CortesViewTool::Renderer.copyright 'Alex Cortes', 'All rights reserved'
+```
 
 ## Development
 
